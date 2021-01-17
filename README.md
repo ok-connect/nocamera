@@ -4,6 +4,8 @@
 
 See [About page](content/about.md) for background on the project.
 
+Site is currently depolyed to https://nocamera.netlify.app
+
 ## Build Setup
 
 ```bash
