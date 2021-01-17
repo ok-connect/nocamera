@@ -9,6 +9,6 @@
 <style scoped>
 .layout-grid {
   display: grid;
-  grid-template-rows: 70px auto 250px;
+  grid-template-rows: 70px auto minmax(200px, auto);
 }
 </style>

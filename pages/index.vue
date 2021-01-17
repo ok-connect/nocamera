@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-7xl mx-auto px-5 py-7 w-full">
+  <div class="max-w-7xl mx-auto px-5 pt-7 py-24 w-full">
     <div class="font-bold max-w-3xl text-left">
       <div class="text-5xl sm:text-6xl mb-4 mt-5 text-gray-600 leading-tight">
         Switching off your camera

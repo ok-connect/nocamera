@@ -1,11 +1,13 @@
 <template>
-  <div class="bg-gray-100 text-gray-200 pt-24 pb-8">
-    <div class="max-w-7xl mx-auto px-5 divide-y divide-gray-500">
-      <div class="pb-10">
+  <div class="bg-gray-100 text-gray-200 py-16">
+    <div class="max-w-7xl mx-auto px-3 sm:px-5">
+      <div class="">
         <div class="flex justify-between items-center gap-2">
           <div class="text-green-600">
-            <a href="/"><Logo /></a>
-            <span class="text-xl font-bold">No Camera</span>
+            <NuxtLink to="/" class="inline-flex items-center gap-2">
+              <Logo />
+              <span class="text-xl font-bold">No Camera</span>
+            </NuxtLink>
           </div>
           <div>
             <a
