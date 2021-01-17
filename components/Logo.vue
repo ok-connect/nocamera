@@ -2,8 +2,8 @@
   <div>
     <span class="sr-only">Visiva</span>
     <svg
-      width="62px"
-      height="45px"
+      width="48px"
+      height="36px"
       viewBox="0 0 250 178"
       version="1.1"
       xmlns="http://www.w3.org/2000/svg"
