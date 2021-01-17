@@ -11,6 +11,8 @@
     "lint": "npm run lint:js"
   },
   "dependencies": {
+    "@nuxt/content": "^1.11.1",
+    "@tailwindcss/typography": "^0.4.0",
     "core-js": "^3.6.5",
     "nuxt": "^2.14.6"
   },
