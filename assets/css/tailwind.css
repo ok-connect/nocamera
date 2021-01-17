@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-visiva-primary {
+    background-color: #3E879A;
+  }
+  .text-visiva-primary {
+    color: #3E879A;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
